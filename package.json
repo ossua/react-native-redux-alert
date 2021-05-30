@@ -1,6 +1,6 @@
 {
   "name": "react-native-redux-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redux based React Native alerts library.",
   "main": "index.js",
   "bin": "index.js",
