@@ -1,0 +1,52 @@
+{
+  "name": "react-native-redux-alert",
+  "version": "1.0.0",
+  "description": "Redux based React Native alerts library.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src && eslint index.js",
+    "build": "babel index.js -d dist && babel src -d dist/src",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaumaus/react-native-redux-alert.git"
+  },
+  "keywords": [
+    "react-native",
+    "redux",
+    "alert",
+    "toast"
+  ],
+  "author": "Andrii R. <durexp@protonmail.ch> (https://blaumaus.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blaumaus/react-native-redux-alert/issues"
+  },
+  "homepage": "https://github.com/Blaumaus/react-native-redux-alert#readme",
+  "funding": "https://www.donationalerts.com/r/fuckblm",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-react-native": "^4.0.1",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "react": "^17.0.2",
+    "react-native": "^0.64.1",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.1",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
+  }
+}

@@ -1,0 +1,25 @@
+# Generic
+node_modules
+package-lock.json
+yarn-error.log
+.DS_Store
+coverage
+dist
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Visual Studio
+.vs
+.vscode
+
+# Android memory profiler files
+*.hprof
+
+/*.xcodeproj
