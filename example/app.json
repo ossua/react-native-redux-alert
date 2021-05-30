@@ -1,0 +1,20 @@
+{
+  "name": "react-native-redux-alert-example",
+  "displayName": "RNRA Example",
+  "expo": {
+    "name": "RNRA Example",
+    "slug": "react-native-redux-alert-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.blaumaus.rnraexample",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.blaumaus.rnraexample",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
