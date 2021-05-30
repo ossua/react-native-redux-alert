@@ -7,7 +7,7 @@ A Redux based toast message provider crafted for React Native.
  - Customisable.
 
 ## Demo
-![Android](assets/android.gif)
+<img src="/assets/android.gif" width="400" />
 
 ## Installation
 ```bash
