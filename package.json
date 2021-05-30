@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Redux based React Native alerts library.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "lint": "eslint src && eslint index.js",
     "build": "babel index.js -d dist && babel src -d dist/src",
