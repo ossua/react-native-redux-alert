@@ -25,7 +25,6 @@
     "url": "https://github.com/Blaumaus/react-native-redux-alert/issues"
   },
   "homepage": "https://github.com/Blaumaus/react-native-redux-alert#readme",
-  "funding": "https://www.donationalerts.com/r/fuckblm",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
