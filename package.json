@@ -1,7 +1,8 @@
 {
   "name": "react-native-redux-alert",
   "version": "1.0.1",
-  "description": "Redux based React Native alerts library.",
+  "description": "Redux based React Native alerts library.",  
+  "funding": "https://www.donationalerts.com/r/blaumaus",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
