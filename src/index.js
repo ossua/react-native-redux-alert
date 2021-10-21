@@ -1,4 +1,4 @@
-import Alert from './Alert'
+import Alert from './Alert/Alert.container'
 import actions from './redux/actions'
 import alertReducer from './redux/reducer'
 import { types, transitions } from './redux/constants'

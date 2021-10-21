@@ -15,12 +15,12 @@ $ npm install --save react-native-redux-alert
 ```
 
 ### Peer dependencies
-This package expect the following peer dependencies:
+This package expects the following peer dependencies:
 ```
   "react": "^17.0.2"
-  "react-native": "^0.64.1"
-  "react-redux": "^7.2.4"
-  "redux": "^4.1.0"
+  "react-native": "^0.66.1"
+  "react-redux": "^7.2.5"
+  "redux": "^4.1.1"
 ```
 
 So make sure that you have those installed too!
