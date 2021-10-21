@@ -1,13 +1,13 @@
 {
   "name": "react-native-redux-alert",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Redux based React Native alerts library.",
   "funding": "https://www.donationalerts.com/r/blaumaus",
   "main": "dist/index.js",
   "bin": "dist/index.js",
   "scripts": {
-    "lint": "eslint src && eslint index.js",
-    "build": "babel index.js -d dist && babel src -d dist/src",
+    "lint": "eslint src && eslint ./src/index.js",
+    "build": "babel src -d dist",
     "prepublish": "npm run build"
   },
   "repository": {
